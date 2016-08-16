@@ -1,0 +1,22 @@
+
+
+
+module Factorization() where
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
