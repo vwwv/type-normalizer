@@ -27,7 +27,9 @@ library
   default-extensions:  NoImplicitPrelude
                      , OverloadedStrings 
                      , MultiWayIf
-
+                     , GeneralizedNewtypeDeriving
+                     , FlexibleContexts
+                     
 source-repository head
   type:     git
   location: https://github.com/githubuser/type-normalizer
